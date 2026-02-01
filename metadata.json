@@ -1,0 +1,8 @@
+{
+  "name": "MediaEarn - Social Earning Reimagined",
+  "description": "A professional social media earning platform where users get paid to engage with social content and advertisers reach targeted audiences. Includes AI-powered earning insights and task assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
